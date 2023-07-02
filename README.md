@@ -18,7 +18,7 @@ A discriminative model is a model of the conditional probability P(Y|X = x) of t
 
 Standard examples of each, all of which are linear classifiers, are.
 
-1. generative classifiers
+1. generative classifiers: 
   2. naive Bayes classifier and
   . linear discriminant analysis
 . discriminative model:
