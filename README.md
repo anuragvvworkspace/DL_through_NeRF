@@ -25,3 +25,8 @@ Standard examples of each, all of which are linear classifiers, are.
 . logistic regression
 
 ![image](https://github.com/anuragvvworkspace/DL_through_NeRF/assets/39873022/cc4dbef7-b5e2-42a9-a3ef-bc34c994a305)
+
+
+## deep generative models (DGMs)
+
+Popular DGMs include variational autoencoders (VAEs), generative adversarial networks (GANs), and auto-regressive models. 
